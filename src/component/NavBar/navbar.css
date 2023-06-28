@@ -1,0 +1,7 @@
+/* margen usado en el navbar no tocar */
+.ml-100 {
+    margin-left: 100vh;
+}
+.ml-20 {
+    margin-left: 20vh;
+}
